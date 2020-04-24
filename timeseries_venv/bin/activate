@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/ma/Desktop/all/git/ydata/kaggle/a/timeseries_venv"
+VIRTUAL_ENV="/home/ma/Desktop/all/git/ydata/kaggle/timeseries/timeseries_venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

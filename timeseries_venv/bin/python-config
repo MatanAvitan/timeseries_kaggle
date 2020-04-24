@@ -1,4 +1,4 @@
-#!/home/ma/Desktop/all/git/ydata/kaggle/a/timeseries_venv/bin/python
+#!/home/ma/Desktop/all/git/ydata/kaggle/timeseries/timeseries_venv/bin/python
 
 import sys
 import getopt
